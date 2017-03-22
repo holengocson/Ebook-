@@ -11,5 +11,5 @@
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
     </style>
-
+    <style name="Toolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 </resources>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ebooks</string>
+    <string name="none_trip_timeline">Khong co Category nao</string>
+    <string name="no_cates_add">Tim kiem Category</string>
 </resources>

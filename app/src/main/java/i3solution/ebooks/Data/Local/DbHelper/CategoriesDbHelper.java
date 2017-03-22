@@ -41,8 +41,5 @@ public class CategoriesDbHelper extends SQLiteOpenHelper {
         //not required at version 1
     }
 
-    @Override
-    public void Downgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        //not required a version 1
-    }
+
 }
