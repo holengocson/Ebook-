@@ -22,10 +22,10 @@ public class SplashScreen extends Activity{
             @Override
             public void run() {
                 /* Create an Intent that will start the Menu-Activity. */
-                Intent intent = new Intent(SplashScreen.this,MainActivity.class);
+                Intent intent = new Intent(SplashScreen.this,LoginActivity.class);
                 startActivity(intent);
                 finish();
             }
-        }, 4000);
+        }, 2000);
     }
 }

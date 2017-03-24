@@ -6,7 +6,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        applicationId "i3solution.ebooks"
+        applicationId "ngocson.ebooks"
         minSdkVersion 13
         targetSdkVersion 25
         versionCode 1

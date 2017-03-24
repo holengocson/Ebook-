@@ -12,4 +12,7 @@
         <item name="android:windowNoTitle">true</item>
     </style>
     <style name="Toolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="TextAppearence.App.TextInputLayout" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/cardview_light_background</item>
+    </style>
 </resources>
